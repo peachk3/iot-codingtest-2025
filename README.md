@@ -149,8 +149,8 @@ IoT 개발자 코딩테스트 준비 리포지토리
 4. 다른 사람의 풀이 보기 가능(점수 차감X)
 
 ### 모의 테스트
-1. [두 개 뽑아서 더하기]()
-2. [방문 길이]()
+1. [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) 
+2. [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 
 ### 스택
 - LIFO : 맨 나중에 추가한 데이터가 가장 먼저 출력되는 구조
